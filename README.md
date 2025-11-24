@@ -1,6 +1,6 @@
-# 🖥️ Menu (CLI) — C++ Command Line Menu
+# 🖥️ Menu (CLI) — C++ Command Line Menu /en
 
-یک پروژه ساده در زبان C++ برای ساخت **منوی متنی (CLI menu)**  
+یک پروژه ساده در زبان C++ برای ساخت **منوی متنی (CLI menu)**
 This is a simple C++ project that implements a **command-line interface menu** system.
 
 ---
